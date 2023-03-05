@@ -6,10 +6,11 @@ This is a simple password generator web application built using HTML, CSS, and J
 ## Features
 The password generator offers the following options for users to customize their password:
 
-Include uppercase letters
-Include lowercase letters
-Include symbols
-Include numbers
+1. Include uppercase letters
+2. Include lowercase letters
+3. Include symbols
+4. Include numbers
+
 Users can select any combination of these options to create a unique and strong password that meets their specific needs.
 
 ## How to Use
